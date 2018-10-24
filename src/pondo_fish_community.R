@@ -1,7 +1,7 @@
-# AUTHOR:       Jade Q. Maggs MSc
-# POSITION:     Assistant Scientist
+# AUTHOR:       Jade Q. Maggs PhD
+# POSITION:     Scientist
 # AFFILIATION:  Oceanographic Research Institute / University of KwaZulu-Natal
-# CONTACT:      email: jmaggs@ori.org.za / mobile: +2783 515 1079 
+# CONTACT:      jademaggs@gmail.com
 
 # 1. SCRIPT METADATA ------------------------------------------------------
 
@@ -22,8 +22,7 @@
 rm(list = ls())
 
 # Set working directory
-setwd("c:/Users/jmaggs/Documents/Publications/Pondo_fish community/") # Microsoft Windows
-#setwd("/home/jmaggs/") # Linux Ubuntu
+setwd("/home/jmaggs/")
 
 # 2.1. IMPORT OTHER SOURCE CODE
 
