@@ -6,7 +6,7 @@
 # -------------------------------------------------------------------------
 
 # IMPORT SOURCE
-source("code/00_pondo_fish_comm_init.R")
+#source("code/00_pondo_fish_comm_init.R")
 
 # -------------------------------------------------------------------------
 # SHANNON DIVERSITY
